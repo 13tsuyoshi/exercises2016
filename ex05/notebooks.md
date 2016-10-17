@@ -10,3 +10,4 @@
 * [中田 竜明](http://nbviewer.jupyter.org/github/nswa17/MyInterpolations.jl/blob/master/ex05.ipynb?flush_cache=true)
 * [齊藤一織](http://nbviewer.jupyter.org/github/IoriS/My-/blob/master/%E5%AE%BF%E9%A1%8C5.ipynb)
 * [岡部 匡志](http://nbviewer.jupyter.org/github/M-okb/fitted_value_iteration/blob/master/Bellman_Operator/fitted_value_iteration.ipynb)
+* [高橋剛史](https://github.com/13tsuyoshi/521due.jl/blob/master/exercise5.ipynb)
